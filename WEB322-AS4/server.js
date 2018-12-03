@@ -3,7 +3,7 @@
  *  I declare that this assignment is my own work in accordance with Seneca Academic Policy.
  *  No part * of this assignment has been copied manually or electronically from any other source
  *  (including 3rd party web sites) or distributed to other students.
- *  Name: Kazim Akhlaqi     Student ID: 103638177    Date: 13 October 2018
+ *  Name:     Student ID:    Date: 13 October 2018
  *  Online (Heroku) Link:  https://radiant-castle-92587.herokuapp.com/
  ***********************************************************************************************/
 
